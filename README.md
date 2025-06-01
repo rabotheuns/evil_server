@@ -1,2 +1,2 @@
-# evil_server
-this is a devious server
+# Evil Server
+this is a devious server application.
